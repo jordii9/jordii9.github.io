@@ -1111,10 +1111,3 @@
 			display: inline-block;
 			width: 5em;
 		}
-/* Images*/
-
-
-img[alt=equips] {
-	max-width: 670px;
-	display: block;
-}
