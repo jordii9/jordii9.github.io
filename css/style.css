@@ -33,7 +33,7 @@
 		font-weight: 300;
 		letter-spacing: 0.025em;
 		line-height: 1.75em;
-		background:green;
+		background: #1A65B8;
 		}
 
 	a {
@@ -603,7 +603,7 @@
 		.wrapper.style3 {
 			background:#1A65B8;
 			color: inherit;
-			border: green;
+			border: #1A65B8;
 		}
 
 		.wrapper.style4 {
